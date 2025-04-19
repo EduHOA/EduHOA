@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 Sobre mim
-- 🔭 5 anos escalando operações de e‑commerce (estagiário → gerente, +40 % lucro/mês)  
+- 🔭 5 anos escalando operações de e‑commerce (estagiário → gerente)  
 - 📚 Concluindo **ADS (UNICESUMAR, jul/25)**; presidente da Liga Acadêmica de Tecnologia  
-- 👨‍💻 Gestor do app **Dou Um Help!** (Flutter + Node.js)  
+- 👨‍💻 Gestor do app **Dou Um Help!** (React + Node.js)  
 - 🏆 2º lugar **NASA Space Apps 2024** | Organizador do evento **WorkinTech**
 
 ### 🧰 Tech Stack
